@@ -1,5 +1,6 @@
 # credits :metal:
-Respository to give credits to all the awesome contributors of [gh-conf](https://github.com/gh-conf)
+
+Thanks to all the contributors of [gh-conf](https://github.com/gh-conf) to make it better everyday.
 
 - [Arshad Kazmi](https://github.com/arshadkazmi42) - Maintainer for all the repositories
 - [Aniruddha Bhattacharya](https://dribbble.com/aniruddha) - Designed the current `gh-conf` logo
