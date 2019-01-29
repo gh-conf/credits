@@ -2,7 +2,7 @@
 
 Thanks to all the contributors of [gh-conf](https://github.com/gh-conf) to help it grow.
 
-- [Arshad Kazmi](https://github.com/arshadkazmi42) - Maintainer for all the repositories
+- [Arshad Kazmi](https://github.com/arshadkazmi42) - Maintainer of all the repositories
 - [Aniruddha Bhattacharya](https://dribbble.com/aniruddha) - Designed the current `gh-conf` logo
 
 ## Contribution
