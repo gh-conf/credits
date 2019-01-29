@@ -1,4 +1,4 @@
-# credits :metal:
+# credits :raised_hands:
 
 Thanks to all the contributors of [gh-conf](https://github.com/gh-conf) to help it grow.
 
