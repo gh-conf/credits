@@ -20,4 +20,4 @@ Thanks to all the contributors of [gh-conf](https://github.com/gh-conf) to help 
 - [michaelymo](https://github.com/michaelymo)
 
 ## Contribution
-We are trying our best to keep this list up-to-date. If we have missed anyone, then you can send a pull request with your details, we evaluate the pull request and get it merged.
+We are trying our best to keep this list up-to-date. If we have missed anyone, then you can send a pull request with your details, we will evaluate the pull request and get it merged.
